@@ -1,2 +1,2 @@
 # scaling-enigma
-This is my Practice repo 
+This is my Practice repository that i am learning from!
